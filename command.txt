@@ -1,5 +1,6 @@
 echo "# my-1st-github" >> README.md
 git init
+# Biddut
 git add README.md
 git commit -m "first commit"
 git branch -M main
